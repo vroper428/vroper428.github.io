@@ -1,5 +1,3 @@
-<!--
-
 <DOCTYPE HTML>
 
 <html>
@@ -310,5 +308,4 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					</section>
           
           </htlm>
-          
-          -->
+      
