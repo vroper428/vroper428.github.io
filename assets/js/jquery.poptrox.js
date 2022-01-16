@@ -22,7 +22,7 @@
                 popupSpeed: 300,
                 popupWidth: 200,
                 popupHeight: 100,
-                popupIsFixed: !1,
+                popupIsFixed: false,
                 useBodyOverflow: !1,
                 usePopupEasyClose: !0,
                 usePopupForceClose: !1,
